@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\clientepf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:clientepf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\clientepj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:clientepj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\itemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:itemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\ordemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:ordemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|c:\\users\\2024202060034\\desktop\\prova de poo\\provapoo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19813ECE-40FF-4819-9BCB-E1847D6B9949}|PROVAPOO.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +42,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdemServico.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\OrdemServico.cs",
+              "RelativeDocumentMoniker": "OrdemServico.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\OrdemServico.cs",
+              "RelativeToolTip": "OrdemServico.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:33:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemServico.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\ItemServico.cs",
+              "RelativeDocumentMoniker": "ItemServico.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\ItemServico.cs",
+              "RelativeToolTip": "ItemServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:31:18.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Servico.cs",
+              "RelativeDocumentMoniker": "Servico.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Servico.cs",
+              "RelativeToolTip": "Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:29:16.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:26:34.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientePJ.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\ClientePJ.cs",
+              "RelativeDocumentMoniker": "ClientePJ.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\ClientePJ.cs",
+              "RelativeToolTip": "ClientePJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:24:56.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientePF.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\ClientePF.cs",
+              "RelativeDocumentMoniker": "ClientePF.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\ClientePF.cs",
+              "RelativeToolTip": "ClientePF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:38:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:21:00.469Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +143,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2024202060034\\Desktop\\Prova de Poo\\PROVAPOO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T22:58:20.834Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

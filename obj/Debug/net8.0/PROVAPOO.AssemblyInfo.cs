@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROVAPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab7a2032c8aaae9d8e629a671c07a335fb6b001")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROVAPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROVAPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\bin\Debug\net8.0\PROVAPOO.exe
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\bin\Debug\net8.0\PROVAPOO.deps.json
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\bin\Debug\net8.0\PROVAPOO.runtimeconfig.json
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\bin\Debug\net8.0\PROVAPOO.dll
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\bin\Debug\net8.0\PROVAPOO.pdb
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.AssemblyInfoInputs.cache
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.AssemblyInfo.cs
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.csproj.CoreCompileInputs.cache
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.sourcelink.json
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.dll
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\refint\PROVAPOO.dll
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.pdb
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\PROVAPOO.genruntimeconfig.cache
+C:\Users\2024202060034\Desktop\Prova de Poo\PROVAPOO\obj\Debug\net8.0\ref\PROVAPOO.dll
